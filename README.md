@@ -2,10 +2,10 @@
 
 # Usage
 
-```
+```HTML
 <StarRating 
-    size="large" 
-    n={7} 
-    color="#FF0000" 
+    size= "small | medium | large | 2xlarge | 3xlarge | 4xlarge | 5xlarge"   //Default is small
+    n={7} //Number of stars in a row
+    color="#FF0000" //Default is #FFCD3C
 />
 ```
