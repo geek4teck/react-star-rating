@@ -9,3 +9,7 @@
     color="#FF0000" //Default is #FFCD3C
 />
 ```
+
+# Demo Animation
+![](https://github.com/geek4teck/react-star-rating/blob/main/Demo.gif?raw=true)
+
