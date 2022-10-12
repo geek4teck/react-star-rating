@@ -1,4 +1,3 @@
-import { useState, useRef } from "react";
 import { BsStar, BsStarFill } from "react-icons/bs";
 
 const Star = ({

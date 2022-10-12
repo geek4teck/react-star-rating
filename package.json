@@ -36,5 +36,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "keywords": [
+    "Star Rating",
+    "React Star Rating",
+    "Star Ratings",
+    "Star Rating React"
+  ],
+  "author": "Vishal Goyal",
+  "license": "ISC"
+
 }
